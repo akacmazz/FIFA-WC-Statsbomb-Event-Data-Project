@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/353730df-cb05-4407-9ccb-a908588eceb2)
+
 # Football Event Data Analysis and Visualization
 
 This repository contains a comprehensive project for analyzing and visualizing football (soccer) event data. By leveraging StatsBomb JSON event files, the project extracts detailed information on shots, passing networks, defensive actions, and player movements. The code generates a variety of visualizations—from heatmaps and movement trajectories to network graphs and zone distributions—to provide deep insights into team tactics and individual player performance.
