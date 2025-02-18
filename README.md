@@ -92,10 +92,6 @@ The project is organized into several key modules:
 - **Running Analyses:**  
   The project scripts are modular. For example, to analyze a specific player's movement and positioning, update the `player_name` variable in the analysis script and run:
 
-    ```bash
-    python your_analysis_script.py
-    ```
-
   The script will load the match event data (e.g., from `7530.json`), generate visualizations for player heatmaps, movement directions, pressure actions, and team interactions, and display the resulting figures.
 
 - **Customizing Analyses:**  
